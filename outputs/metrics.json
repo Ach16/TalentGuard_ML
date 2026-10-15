@@ -1,0 +1,22 @@
+{
+    "selected_model": "logreg",
+    "base_rate": 0.16122448979591836,
+    "models": {
+        "logreg": {
+            "oof_roc_auc": 0.8240715075234155,
+            "oof_pr_auc": 0.5778678392320461,
+            "oof_precision_50": 0.86,
+            "holdout_roc_auc": 0.8101036695738029,
+            "holdout_pr_auc": 0.5528161745260576,
+            "holdout_precision_50": 0.56
+        },
+        "hgb": {
+            "oof_roc_auc": 0.8075429212821802,
+            "oof_pr_auc": 0.5628148602459183,
+            "oof_precision_50": 0.84,
+            "holdout_roc_auc": 0.7882727222862158,
+            "holdout_pr_auc": 0.4936321033754356,
+            "holdout_precision_50": 0.5
+        }
+    }
+}

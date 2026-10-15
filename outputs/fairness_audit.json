@@ -1,0 +1,84 @@
+{
+    "disclaimer": "These results are exploratory diagnostics. They do NOT constitute proof of fairness, causality, or legal compliance. Limitations include small group sizes, proxy variables, and historical label bias.",
+    "groups": {
+        "Gender": {
+            "Female": {
+                "headcount": 588,
+                "representation_pct": 0.4,
+                "observed_attrition_rate": 0.14795918367346939,
+                "average_predicted_risk": 0.34019667213615695,
+                "risk_ratio_vs_ref": 0.9147760969452502
+            },
+            "Male": {
+                "headcount": 882,
+                "representation_pct": 0.6,
+                "observed_attrition_rate": 0.17006802721088435,
+                "average_predicted_risk": 0.3718906443578815,
+                "risk_ratio_vs_ref": 1.0
+            }
+        },
+        "MaritalStatus": {
+            "Divorced": {
+                "headcount": 327,
+                "representation_pct": 0.22244897959183674,
+                "observed_attrition_rate": 0.10091743119266056,
+                "average_predicted_risk": 0.24754615544205907,
+                "risk_ratio_vs_ref": 0.7551732200376826
+            },
+            "Married": {
+                "headcount": 673,
+                "representation_pct": 0.45782312925170066,
+                "observed_attrition_rate": 0.12481426448736999,
+                "average_predicted_risk": 0.3278004951363433,
+                "risk_ratio_vs_ref": 1.0
+            },
+            "Single": {
+                "headcount": 470,
+                "representation_pct": 0.3197278911564626,
+                "observed_attrition_rate": 0.2553191489361702,
+                "average_predicted_risk": 0.4818848201774456,
+                "risk_ratio_vs_ref": 1.470055193104615
+            }
+        },
+        "AgeBand": {
+            "17-30": {
+                "headcount": 386,
+                "representation_pct": 0.26258503401360545,
+                "observed_attrition_rate": 0.25906735751295334,
+                "average_predicted_risk": 0.45846385619133334,
+                "risk_ratio_vs_ref": 1.294035718163473
+            },
+            "31-40": {
+                "headcount": 619,
+                "representation_pct": 0.42108843537414964,
+                "observed_attrition_rate": 0.13731825525040386,
+                "average_predicted_risk": 0.35428995487234033,
+                "risk_ratio_vs_ref": 1.0
+            },
+            "41-50": {
+                "headcount": 322,
+                "representation_pct": 0.21904761904761905,
+                "observed_attrition_rate": 0.10559006211180125,
+                "average_predicted_risk": 0.29909986552592804,
+                "risk_ratio_vs_ref": 0.8442233865583384
+            },
+            "51-61": {
+                "headcount": 143,
+                "representation_pct": 0.09727891156462586,
+                "observed_attrition_rate": 0.1258741258741259,
+                "average_predicted_risk": 0.24797555443727018,
+                "risk_ratio_vs_ref": 0.6999226227755232
+            }
+        }
+    },
+    "model_comparison": {
+        "with_demographics": {
+            "roc_auc": 0.8240715075234155,
+            "pr_auc": 0.5778678392320461
+        },
+        "without_demographics": {
+            "roc_auc": 0.8170562690566385,
+            "pr_auc": 0.5692007818853858
+        }
+    }
+}

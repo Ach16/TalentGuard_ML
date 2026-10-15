@@ -1,0 +1,10 @@
+{
+    "precision_at_50": 0.86,
+    "base_rate": 0.16122448979591836,
+    "lift": 5.334177215189873,
+    "leavers_caught": 43,
+    "assumed_save_rate": 0.2,
+    "people_saved_est": 8.6,
+    "salary_months_assumed": 6.0,
+    "salary_cost_avoided_est": 213122.40000000002
+}

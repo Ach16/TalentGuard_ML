@@ -1,0 +1,102 @@
+[
+    {
+        "employee_id": 478,
+        "status": "PENDING_APPROVAL",
+        "to": "manager_478@technovasolutions.internal",
+        "subject": "Retention Support Strategy: Employee #478",
+        "body": "Hello,\n\nWe are reaching out to suggest a proactive check-in with Employee #478. Based on aggregate indicators, we'd like to ensure they feel fully supported in their role.\n\nFactors we noted include:\nJobRole: Sales Representative | BusinessTravel: Travel_Frequently | OverTime: Yes\n\nSuggested Approach:\nReview workload and approve time-off or team support\n\nThis is a suggested intervention to support employee success and is not a definitive judgment. Please use your discretion.\n\nBest,\nHR Retention Team",
+        "risk_pct": 99.6,
+        "reasons": "JobRole: Sales Representative | BusinessTravel: Travel_Frequently | OverTime: Yes",
+        "recommended_action": "Review workload and approve time-off or team support"
+    },
+    {
+        "employee_id": 622,
+        "status": "PENDING_APPROVAL",
+        "to": "manager_622@technovasolutions.internal",
+        "subject": "Retention Support Strategy: Employee #622",
+        "body": "Hello,\n\nWe are reaching out to suggest a proactive check-in with Employee #622. Based on aggregate indicators, we'd like to ensure they feel fully supported in their role.\n\nFactors we noted include:\nJobRole: Laboratory Technician | OverTime: Yes | JobInvolvement (low)\n\nSuggested Approach:\nReview workload and approve time-off or team support\n\nThis is a suggested intervention to support employee success and is not a definitive judgment. Please use your discretion.\n\nBest,\nHR Retention Team",
+        "risk_pct": 99.5,
+        "reasons": "JobRole: Laboratory Technician | OverTime: Yes | JobInvolvement (low)",
+        "recommended_action": "Review workload and approve time-off or team support"
+    },
+    {
+        "employee_id": 1494,
+        "status": "PENDING_APPROVAL",
+        "to": "manager_1494@technovasolutions.internal",
+        "subject": "Retention Support Strategy: Employee #1494",
+        "body": "Hello,\n\nWe are reaching out to suggest a proactive check-in with Employee #1494. Based on aggregate indicators, we'd like to ensure they feel fully supported in their role.\n\nFactors we noted include:\nJobRole: Laboratory Technician | BusinessTravel: Travel_Frequently | OverTime: Yes\n\nSuggested Approach:\nReview workload and approve time-off or team support\n\nThis is a suggested intervention to support employee success and is not a definitive judgment. Please use your discretion.\n\nBest,\nHR Retention Team",
+        "risk_pct": 99.3,
+        "reasons": "JobRole: Laboratory Technician | BusinessTravel: Travel_Frequently | OverTime: Yes",
+        "recommended_action": "Review workload and approve time-off or team support"
+    },
+    {
+        "employee_id": 1108,
+        "status": "PENDING_APPROVAL",
+        "to": "manager_1108@technovasolutions.internal",
+        "subject": "Retention Support Strategy: Employee #1108",
+        "body": "Hello,\n\nWe are reaching out to suggest a proactive check-in with Employee #1108. Based on aggregate indicators, we'd like to ensure they feel fully supported in their role.\n\nFactors we noted include:\nOverTime: Yes | EnvironmentSatisfaction (low) | DistanceFromHome (high)\n\nSuggested Approach:\nReview workload and approve time-off or team support\n\nThis is a suggested intervention to support employee success and is not a definitive judgment. Please use your discretion.\n\nBest,\nHR Retention Team",
+        "risk_pct": 98.6,
+        "reasons": "OverTime: Yes | EnvironmentSatisfaction (low) | DistanceFromHome (high)",
+        "recommended_action": "Review workload and approve time-off or team support"
+    },
+    {
+        "employee_id": 1487,
+        "status": "PENDING_APPROVAL",
+        "to": "manager_1487@technovasolutions.internal",
+        "subject": "Retention Support Strategy: Employee #1487",
+        "body": "Hello,\n\nWe are reaching out to suggest a proactive check-in with Employee #1487. Based on aggregate indicators, we'd like to ensure they feel fully supported in their role.\n\nFactors we noted include:\nBusinessTravel: Travel_Frequently | EnvironmentSatisfaction (low) | YearsWithCurrManager (low)\n\nSuggested Approach:\nEvaluate team dynamics and immediate workspace concerns\n\nThis is a suggested intervention to support employee success and is not a definitive judgment. Please use your discretion.\n\nBest,\nHR Retention Team",
+        "risk_pct": 98.5,
+        "reasons": "BusinessTravel: Travel_Frequently | EnvironmentSatisfaction (low) | YearsWithCurrManager (low)",
+        "recommended_action": "Evaluate team dynamics and immediate workspace concerns"
+    },
+    {
+        "employee_id": 1273,
+        "status": "PENDING_APPROVAL",
+        "to": "manager_1273@technovasolutions.internal",
+        "subject": "Retention Support Strategy: Employee #1273",
+        "body": "Hello,\n\nWe are reaching out to suggest a proactive check-in with Employee #1273. Based on aggregate indicators, we'd like to ensure they feel fully supported in their role.\n\nFactors we noted include:\nJobRole: Sales Representative | BusinessTravel: Travel_Frequently | OverTime: Yes\n\nSuggested Approach:\nReview workload and approve time-off or team support\n\nThis is a suggested intervention to support employee success and is not a definitive judgment. Please use your discretion.\n\nBest,\nHR Retention Team",
+        "risk_pct": 98.4,
+        "reasons": "JobRole: Sales Representative | BusinessTravel: Travel_Frequently | OverTime: Yes",
+        "recommended_action": "Review workload and approve time-off or team support"
+    },
+    {
+        "employee_id": 590,
+        "status": "PENDING_APPROVAL",
+        "to": "manager_590@technovasolutions.internal",
+        "subject": "Retention Support Strategy: Employee #590",
+        "body": "Hello,\n\nWe are reaching out to suggest a proactive check-in with Employee #590. Based on aggregate indicators, we'd like to ensure they feel fully supported in their role.\n\nFactors we noted include:\nNumCompaniesWorked (high) | BusinessTravel: Travel_Frequently | OverTime: Yes\n\nSuggested Approach:\nReview workload and approve time-off or team support\n\nThis is a suggested intervention to support employee success and is not a definitive judgment. Please use your discretion.\n\nBest,\nHR Retention Team",
+        "risk_pct": 98.0,
+        "reasons": "NumCompaniesWorked (high) | BusinessTravel: Travel_Frequently | OverTime: Yes",
+        "recommended_action": "Review workload and approve time-off or team support"
+    },
+    {
+        "employee_id": 614,
+        "status": "PENDING_APPROVAL",
+        "to": "manager_614@technovasolutions.internal",
+        "subject": "Retention Support Strategy: Employee #614",
+        "body": "Hello,\n\nWe are reaching out to suggest a proactive check-in with Employee #614. Based on aggregate indicators, we'd like to ensure they feel fully supported in their role.\n\nFactors we noted include:\nJobRole: Sales Representative | BusinessTravel: Travel_Frequently | OverTime: Yes\n\nSuggested Approach:\nReview workload and approve time-off or team support\n\nThis is a suggested intervention to support employee success and is not a definitive judgment. Please use your discretion.\n\nBest,\nHR Retention Team",
+        "risk_pct": 97.8,
+        "reasons": "JobRole: Sales Representative | BusinessTravel: Travel_Frequently | OverTime: Yes",
+        "recommended_action": "Review workload and approve time-off or team support"
+    },
+    {
+        "employee_id": 1758,
+        "status": "PENDING_APPROVAL",
+        "to": "manager_1758@technovasolutions.internal",
+        "subject": "Retention Support Strategy: Employee #1758",
+        "body": "Hello,\n\nWe are reaching out to suggest a proactive check-in with Employee #1758. Based on aggregate indicators, we'd like to ensure they feel fully supported in their role.\n\nFactors we noted include:\nOverTime: Yes | EnvironmentSatisfaction (low) | JobSatisfaction (low)\n\nSuggested Approach:\nReview workload and approve time-off or team support\n\nThis is a suggested intervention to support employee success and is not a definitive judgment. Please use your discretion.\n\nBest,\nHR Retention Team",
+        "risk_pct": 97.7,
+        "reasons": "OverTime: Yes | EnvironmentSatisfaction (low) | JobSatisfaction (low)",
+        "recommended_action": "Review workload and approve time-off or team support"
+    },
+    {
+        "employee_id": 554,
+        "status": "PENDING_APPROVAL",
+        "to": "manager_554@technovasolutions.internal",
+        "subject": "Retention Support Strategy: Employee #554",
+        "body": "Hello,\n\nWe are reaching out to suggest a proactive check-in with Employee #554. Based on aggregate indicators, we'd like to ensure they feel fully supported in their role.\n\nFactors we noted include:\nJobRole: Sales Representative | OverTime: Yes | EnvironmentSatisfaction (low)\n\nSuggested Approach:\nReview workload and approve time-off or team support\n\nThis is a suggested intervention to support employee success and is not a definitive judgment. Please use your discretion.\n\nBest,\nHR Retention Team",
+        "risk_pct": 97.3,
+        "reasons": "JobRole: Sales Representative | OverTime: Yes | EnvironmentSatisfaction (low)",
+        "recommended_action": "Review workload and approve time-off or team support"
+    }
+]

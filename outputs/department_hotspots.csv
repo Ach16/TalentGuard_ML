@@ -1,0 +1,4 @@
+Department,headcount,observed_attrition_rate,mean_predicted_risk,high_risk_count,watchlist_count
+Human Resources,63,0.19047619047619047,0.40402024339216747,25,4
+Research & Development,961,0.1383975026014568,0.32579599673690207,264,20
+Sales,446,0.2062780269058296,0.42488781018350297,176,26

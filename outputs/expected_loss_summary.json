@@ -1,0 +1,7 @@
+{
+    "assumptions": {
+        "months_salary_cost": 6.0,
+        "disclaimer": "Scores are relative prioritizations based on class-weighted probabilities. They are NOT guaranteed financial forecasts."
+    },
+    "overlap_with_risk_top50": 8
+}

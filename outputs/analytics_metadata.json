@@ -1,0 +1,6 @@
+{
+    "generated_at": "2026-10-10T12:27:46.253582",
+    "seed": 42,
+    "evaluation_methodology": "Out-of-fold cross-validation for descriptive performance, full-model probability extrapolation for action prioritization.",
+    "limitations": "These advanced analytics are exploratory. Predictions are probabilistic and associations are not causal. Financial estimates are illustrative."
+}

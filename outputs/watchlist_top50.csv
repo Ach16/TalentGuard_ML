@@ -1,0 +1,51 @@
+rank,EmployeeNumber,risk_pct,reasons,action,MonthlyIncome
+1,478,99.6,JobRole: Sales Representative | BusinessTravel: Travel_Frequently | OverTime: Yes,Review workload and approve time-off or team support,2174
+2,622,99.5,JobRole: Laboratory Technician | OverTime: Yes | JobInvolvement (low),Review workload and approve time-off or team support,2340
+3,1494,99.3,JobRole: Laboratory Technician | BusinessTravel: Travel_Frequently | OverTime: Yes,Review workload and approve time-off or team support,3172
+4,1108,98.6,OverTime: Yes | EnvironmentSatisfaction (low) | DistanceFromHome (high),Review workload and approve time-off or team support,2313
+5,1487,98.5,BusinessTravel: Travel_Frequently | EnvironmentSatisfaction (low) | YearsWithCurrManager (low),Evaluate team dynamics and immediate workspace concerns,5765
+6,1273,98.4,JobRole: Sales Representative | BusinessTravel: Travel_Frequently | OverTime: Yes,Review workload and approve time-off or team support,1118
+7,590,98.0,NumCompaniesWorked (high) | BusinessTravel: Travel_Frequently | OverTime: Yes,Review workload and approve time-off or team support,9950
+8,614,97.8,JobRole: Sales Representative | BusinessTravel: Travel_Frequently | OverTime: Yes,Review workload and approve time-off or team support,1878
+9,1758,97.7,OverTime: Yes | EnvironmentSatisfaction (low) | JobSatisfaction (low),Review workload and approve time-off or team support,8564
+10,554,97.3,JobRole: Sales Representative | OverTime: Yes | EnvironmentSatisfaction (low),Review workload and approve time-off or team support,3202
+11,1649,97.2,JobRole: Laboratory Technician | OverTime: Yes | EnvironmentSatisfaction (low),,2166
+12,1539,97.2,YearsSinceLastPromotion (high) | JobLevel (high) | YearsAtCompany (high),,14411
+13,19,97.2,JobRole: Laboratory Technician | OverTime: Yes | DistanceFromHome (high),,2028
+14,1767,97.1,NumCompaniesWorked (high) | BusinessTravel: Travel_Frequently | OverTime: Yes,,2437
+15,1928,97.0,JobRole: Sales Representative | BusinessTravel: Travel_Frequently | TotalWorkingYears (low),,1091
+16,1716,96.9,YearsSinceLastPromotion (high) | JobLevel (high) | NumCompaniesWorked (high),,12936
+17,1279,96.7,JobRole: Laboratory Technician | BusinessTravel: Travel_Frequently | EnvironmentSatisfaction (low),,2625
+18,167,96.5,JobRole: Sales Representative | OverTime: Yes | TotalWorkingYears (low),,1675
+19,1968,96.3,OverTime: Yes | EnvironmentSatisfaction (low) | NumCompaniesWorked (high),,10448
+20,1862,96.2,NumCompaniesWorked (high) | OverTime: Yes | MaritalStatus: Single,,9907
+21,514,96.2,NumCompaniesWorked (high) | BusinessTravel: Travel_Frequently | OverTime: Yes,,2285
+22,911,95.8,JobRole: Laboratory Technician | OverTime: Yes | TotalWorkingYears (low),,2795
+23,959,95.8,JobRole: Sales Representative | OverTime: Yes | TotalWorkingYears (low),,2121
+24,1624,95.7,JobRole: Sales Representative | BusinessTravel: Travel_Frequently | OverTime: Yes,,1569
+25,33,95.6,BusinessTravel: Travel_Frequently | OverTime: Yes | JobInvolvement (low),,3919
+26,2021,95.5,JobRole: Sales Representative | OverTime: Yes | TotalWorkingYears (low),,2380
+27,1167,95.4,YearsSinceLastPromotion (high) | JobLevel (high) | BusinessTravel: Travel_Frequently,,13758
+28,783,95.3,JobRole: Sales Representative | JobInvolvement (low) | MaritalStatus: Single,,6632
+29,960,95.2,JobRole: Laboratory Technician | TotalWorkingYears (low) | EnvironmentSatisfaction (low),,2973
+30,1464,95.1,JobRole: Laboratory Technician | BusinessTravel: Travel_Frequently | OverTime: Yes,,3722
+31,1439,95.0,JobRole: Sales Representative | EnvironmentSatisfaction (low) | JobSatisfaction (low),,4400
+32,55,94.9,JobRole: Laboratory Technician | JobInvolvement (low) | TotalWorkingYears (low),,2293
+33,702,94.8,YearsSinceLastPromotion (high) | BusinessTravel: Travel_Frequently | OverTime: Yes,,3348
+34,952,94.4,JobRole: Sales Representative | OverTime: Yes | TotalWorkingYears (low),,2413
+35,235,94.4,JobRole: Sales Representative | BusinessTravel: Travel_Frequently | JobInvolvement (low),,2325
+36,1944,94.0,BusinessTravel: Travel_Frequently | TotalWorkingYears (low) | EducationField: Human Resources,,2863
+37,1053,94.0,BusinessTravel: Travel_Frequently | OverTime: Yes | EnvironmentSatisfaction (low),,2042
+38,1961,93.9,JobRole: Sales Representative | EnvironmentSatisfaction (low) | JobSatisfaction (low),,2858
+39,390,93.6,BusinessTravel: Travel_Frequently | OverTime: Yes | EnvironmentSatisfaction (low),,4741
+40,47,93.5,JobRole: Sales Representative | OverTime: Yes | EnvironmentSatisfaction (low),,2683
+41,2023,93.0,JobRole: Sales Representative | BusinessTravel: Travel_Frequently | TotalWorkingYears (low),,1790
+42,175,93.0,OverTime: Yes | JobInvolvement (low) | TotalWorkingYears (low),,4559
+43,1844,93.0,OverTime: Yes | EducationField: Human Resources | EnvironmentSatisfaction (low),,2335
+44,1318,92.9,OverTime: Yes | DistanceFromHome (high) | JobLevel (high),,9094
+45,299,92.9,BusinessTravel: Travel_Frequently | DistanceFromHome (high) | JobSatisfaction (low),,6696
+46,1504,92.8,JobRole: Laboratory Technician | NumCompaniesWorked (high) | BusinessTravel: Travel_Frequently,,2561
+47,424,92.5,EducationField: Human Resources | EnvironmentSatisfaction (low) | JobSatisfaction (low),,6410
+48,65,92.5,JobRole: Laboratory Technician | OverTime: Yes | TotalWorkingYears (low),,3441
+49,2053,92.4,JobRole: Laboratory Technician | OverTime: Yes | RelationshipSatisfaction (low),,4025
+50,401,92.0,YearsSinceLastPromotion (high) | OverTime: Yes | MaritalStatus: Single,,5828
