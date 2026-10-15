@@ -14,6 +14,15 @@ from src.whatif import what_if
 
 app = FastAPI(title="TalentGuard API")
 
+@app.get("/")
+def root():
+    return {
+        "name": "TalentGuard API",
+        "status": "running",
+        "docs": "/docs",
+        "health": "/health"
+    }
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
